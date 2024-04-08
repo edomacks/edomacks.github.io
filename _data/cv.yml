@@ -1,14 +1,14 @@
-- title: General Information
+- title: Application manager
   type: map
   contents:
     - name: Full Name
       value: Edouard MACKPAYEN
     - name: Date of Birth
-      value: 14th March 1879
+      value: 10th Juin 1978
     - name: Languages
-      value: English, German
+      value: English, Français
 
-- title: Education
+- title: Application manager à l'AFD
   type: time_table
   contents:
     - title: PhD
@@ -94,4 +94,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Tennis, Voyage 2, etc.
